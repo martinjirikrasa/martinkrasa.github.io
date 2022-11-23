@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica;
+}
+
+.header {
+    font-size: 80px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(../images/pattern.jpeg);
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 0;
+    padding: 0;
+}
+
+.nadpis {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+#Brushes {
+    background-color: mediumspringgreen;
+}
+
+#Frames {
+    background-color: lightcoral;
+}
+
+#Paint {
+    background-color: skyblue;
+}
+
+.podn {
+    font-weight: bold;
+}
+
+.price {
+    font-weight: bold;
+    color: blue;
+}
